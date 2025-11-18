@@ -1,5 +1,3 @@
 streamlit
 google-genai
 python-docx
-pydub
-pyaudioop
